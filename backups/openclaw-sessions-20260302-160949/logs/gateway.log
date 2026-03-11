@@ -1,0 +1,2883 @@
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─────╮
+│                           │
+│  - agents.defaults.tools  │
+│                           │
+├───────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T12:31:53.102Z [gateway] auth token was missing. Generated a new token and saved it to config (gateway.auth.token).
+2026-02-26T12:31:54.230Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T12:31:54.273Z [heartbeat] started
+2026-02-26T12:31:54.274Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T12:31:54.275Z [gateway] agent model: nvidia/moonshotai/kimi-k2.5
+2026-02-26T12:31:54.276Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 33913)
+2026-02-26T12:31:54.277Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T12:31:54.287Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T12:43:43.549Z [gateway] device pairing auto-approved device=ebfccd65d91f28b4dbc42e5c0b72baaee5cb5f2d827bbc611198173c36d533d5 role=operator
+2026-02-26T12:43:43.552Z [ws] webchat connected conn=6c91498b-01e5-44c7-b064-b6542fe8db93 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:49:52.283Z [ws] ⇄ res ✓ config.schema 325ms conn=6c91498b…db93 id=22544d72…02e0
+2026-02-26T12:49:52.284Z [ws] ⇄ res ✓ channels.status 332ms conn=6c91498b…db93 id=037b81fb…ba86
+2026-02-26T12:50:50.290Z [reload] config change detected; evaluating reload (channels.telegram.botToken, meta)
+2026-02-26T12:50:50.294Z [gateway/channels] restarting telegram channel
+2026-02-26T12:50:50.302Z [reload] config hot reload applied (channels.telegram.botToken)
+2026-02-26T12:50:52.804Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T12:50:52.828Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-26T12:50:52.830Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-26T12:50:52.831Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-26T12:50:52.905Z [ws] ⇄ res ✓ channels.status 3002ms conn=6c91498b…db93 id=14fc5be6…abca
+2026-02-26T12:55:30.026Z [telegram] sendMessage ok chat=8455470574 message=12
+2026-02-26T12:55:49.725Z [ws] ⇄ res ✓ channels.status 316ms conn=6c91498b…db93 id=4c835862…3e5b
+2026-02-26T13:00:22.377Z [reload] config change detected; evaluating reload (channels.telegram.botToken, channels.telegram.allowFrom)
+2026-02-26T13:00:22.381Z [gateway/channels] restarting telegram channel
+2026-02-26T13:00:22.405Z [reload] config hot reload applied (channels.telegram.botToken, channels.telegram.allowFrom)
+2026-02-26T13:01:31.116Z [ws] ⇄ res ✓ skills.status 90ms conn=6c91498b…db93 id=0978dfcf…2883
+2026-02-26T13:01:32.836Z [ws] ⇄ res ✓ skills.status 60ms conn=6c91498b…db93 id=7c934e33…dab4
+2026-02-26T13:02:13.140Z [ws] webchat disconnected code=1001 reason=n/a conn=6c91498b-01e5-44c7-b064-b6542fe8db93
+2026-02-26T13:02:13.224Z [ws] webchat connected conn=e37844d0-cc14-4ac2-990c-bda2d5c86e31 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:02:44.944Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, channels.telegram.botToken)
+2026-02-26T13:02:44.947Z [gateway/channels] restarting telegram channel
+2026-02-26T13:02:44.954Z [reload] config hot reload applied (channels.telegram.botToken)
+2026-02-26T13:02:45.007Z [ws] ⇄ res ✓ channels.status 424ms conn=e37844d0…6e31 id=a7be5b82…c47b
+2026-02-26T13:02:45.227Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T13:03:00.420Z [ws] ⇄ res ✓ channels.status 392ms conn=e37844d0…6e31 id=c28084eb…506d
+2026-02-26T13:03:11.923Z [ws] ⇄ res ✓ channels.status 429ms conn=e37844d0…6e31 id=0ff4e210…3035
+2026-02-26T13:03:22.623Z [ws] ⇄ res ✓ channels.status 363ms conn=e37844d0…6e31 id=3709a685…5792
+2026-02-26T13:03:27.258Z [ws] ⇄ res ✓ channels.status 399ms conn=e37844d0…6e31 id=b1ce5d67…d9eb
+2026-02-26T13:03:34.073Z [ws] ⇄ res ✓ channels.status 413ms conn=e37844d0…6e31 id=676f434f…0cbd
+2026-02-26T13:04:42.803Z [ws] ⇄ res ✓ channels.status 367ms conn=e37844d0…6e31 id=2a9c9b95…bd85
+2026-02-26T13:04:42.808Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, channels.telegram.allowFrom)
+2026-02-26T13:04:42.813Z [gateway/channels] restarting telegram channel
+2026-02-26T13:04:42.823Z [reload] config hot reload applied (channels.telegram.allowFrom)
+2026-02-26T13:04:42.907Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T13:04:58.169Z [telegram] sendMessage ok chat=8455470574 message=14
+2026-02-26T13:06:12.910Z [ws] ⇄ res ✓ skills.status 66ms conn=e37844d0…6e31 id=910968ee…cccb
+2026-02-26T13:11:58.005Z [telegram] sendMessage ok chat=8455470574 message=16
+2026-02-26T13:12:10.612Z [telegram] sendMessage ok chat=8455470574 message=18
+2026-02-26T13:15:39.807Z [ws] ⇄ res ✓ channels.status 309ms conn=e37844d0…6e31 id=094c2803…b46e
+2026-02-26T13:16:37.019Z [ws] webchat disconnected code=1001 reason=WebSocket is closed due to suspension. conn=e37844d0-cc14-4ac2-990c-bda2d5c86e31
+2026-02-26T13:16:37.127Z [ws] webchat connected conn=f0cd04f2-6902-42ed-a71e-837ff369bd8e remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:20:26.376Z [telegram] sendMessage ok chat=8455470574 message=20
+2026-02-26T13:23:08.216Z [reload] config change detected; evaluating reload (env)
+2026-02-26T13:23:08.224Z [gateway] signal SIGUSR1 received
+2026-02-26T13:23:08.226Z [gateway] received SIGUSR1; restarting
+2026-02-26T13:23:08.239Z [gmail-watcher] gmail watcher stopped
+2026-02-26T13:23:08.244Z [ws] webchat disconnected code=1006 reason=n/a conn=f0cd04f2-6902-42ed-a71e-837ff369bd8e
+2026-02-26T13:23:08.265Z [gateway] restart mode: full process restart (spawned pid 35208)
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+2026-02-26T13:23:11.197Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T13:23:11.199Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T13:23:11.254Z [heartbeat] started
+2026-02-26T13:23:11.256Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T13:23:11.257Z [gateway] agent model: nvidia/moonshotai/kimi-k2.5
+2026-02-26T13:23:11.258Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 35209)
+2026-02-26T13:23:11.259Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T13:23:11.292Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T13:23:11.658Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T13:23:11.661Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-26T13:23:11.662Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-26T13:23:11.663Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-26T13:23:13.193Z [ws] webchat connected conn=b76c114f-1b3c-45eb-8096-eff707e10a29 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:23:13.743Z [ws] ⇄ res ✓ config.schema 537ms conn=b76c114f…0a29 id=bd29b545…a392
+2026-02-26T13:23:13.746Z [ws] ⇄ res ✓ node.list 542ms conn=b76c114f…0a29 id=23c4180f…6bce
+2026-02-26T13:23:13.747Z [ws] ⇄ res ✓ device.pair.list 542ms conn=b76c114f…0a29 id=b4d7f56a…9291
+2026-02-26T13:23:52.650Z [reload] config change detected; evaluating reload (env.NVIDIA_API_KEY)
+2026-02-26T13:23:52.655Z [gateway] signal SIGUSR1 received
+2026-02-26T13:23:52.657Z [gateway] received SIGUSR1; restarting
+2026-02-26T13:23:52.673Z [gmail-watcher] gmail watcher stopped
+2026-02-26T13:23:52.677Z [ws] webchat disconnected code=1006 reason=n/a conn=b76c114f-1b3c-45eb-8096-eff707e10a29
+2026-02-26T13:23:52.682Z [gateway] restart mode: full process restart (spawned pid 35271)
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+2026-02-26T13:23:54.879Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T13:23:54.881Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T13:23:54.933Z [heartbeat] started
+2026-02-26T13:23:54.935Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T13:23:54.937Z [gateway] agent model: nvidia/moonshotai/kimi-k2.5
+2026-02-26T13:23:54.937Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 35272)
+2026-02-26T13:23:54.938Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T13:23:54.976Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T13:23:55.093Z [ws] webchat connected conn=4a07712c-f78b-444a-8617-053de2166d1d remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:23:55.604Z [ws] ⇄ res ✓ config.schema 504ms conn=4a07712c…6d1d id=9f8bbfeb…9f04
+2026-02-26T13:23:55.612Z [ws] ⇄ res ✓ node.list 514ms conn=4a07712c…6d1d id=b9e8223f…72d3
+2026-02-26T13:23:55.613Z [ws] ⇄ res ✓ device.pair.list 514ms conn=4a07712c…6d1d id=9560a324…b3d4
+2026-02-26T13:23:55.704Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T13:23:55.706Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-26T13:23:55.706Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-26T13:23:55.707Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-26T13:28:14.791Z [ws] ⇄ res ✓ channels.status 204ms conn=4a07712c…6d1d id=211d6a84…71af
+2026-02-26T13:28:26.763Z [ws] ⇄ res ✓ channels.status 226ms conn=4a07712c…6d1d id=b9f4abd5…788f
+2026-02-26T14:28:32.521+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T13:29:24.469Z [telegram] sendMessage ok chat=8455470574 message=24
+2026-02-26T13:29:50.271Z [ws] ⇄ res ✓ skills.status 103ms conn=4a07712c…6d1d id=9d56cb7f…e0ea
+2026-02-26T13:29:53.946Z [ws] ⇄ res ✓ skills.status 61ms conn=4a07712c…6d1d id=687647bb…f6f2
+2026-02-26T13:30:16.350Z [ws] ⇄ res ✓ skills.status 63ms conn=4a07712c…6d1d id=91672659…8ee8
+2026-02-26T13:30:19.228Z [ws] ⇄ res ✓ skills.status 60ms conn=4a07712c…6d1d id=ade03151…49b0
+2026-02-26T14:31:24.514+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T13:33:58.055Z [reload] config change detected; evaluating reload (agents.defaults.workspace)
+2026-02-26T13:33:58.058Z [reload] config change applied (dynamic reads: agents.defaults.workspace)
+2026-02-26T13:35:53.087Z [ws] ⇄ res ✓ channels.status 314ms conn=4a07712c…6d1d id=51ed19f5…fbf7
+2026-02-26T13:35:59.315Z [ws] ⇄ res ✓ skills.status 61ms conn=4a07712c…6d1d id=fd15dcb5…b5cf
+2026-02-26T13:36:25.189Z [ws] ⇄ res ✓ skills.status 68ms conn=4a07712c…6d1d id=dd11cd2e…d531
+2026-02-26T13:37:03.603Z [ws] ⇄ res ✓ channels.status 381ms conn=4a07712c…6d1d id=f63ec2ef…b7d4
+2026-02-26T13:38:12.909Z [ws] webchat disconnected code=1001 reason=n/a conn=4a07712c-f78b-444a-8617-053de2166d1d
+2026-02-26T13:38:12.998Z [ws] webchat connected conn=caa873b3-97ec-4686-8ece-04ae70e601cd remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:38:13.315Z [ws] ⇄ res ✓ channels.status 310ms conn=caa873b3…01cd id=18ddba31…8003
+2026-02-26T13:38:24.541Z [ws] ⇄ res ✓ channels.status 336ms conn=caa873b3…01cd id=83cd851d…46a4
+2026-02-26T13:39:25.630Z [telegram] sendMessage ok chat=8455470574 message=30
+2026-02-26T13:40:56.361Z [ws] ⇄ res ✓ skills.status 88ms conn=caa873b3…01cd id=23c6af02…638e
+2026-02-26T13:40:57.880Z [ws] ⇄ res ✓ skills.status 59ms conn=caa873b3…01cd id=cfc56db4…2a4a
+2026-02-26T14:41:25.679+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T13:43:11.664Z [telegram] sendMessage ok chat=8455470574 message=31
+2026-02-26T14:45:11.706+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T13:48:25.960Z [telegram] sendMessage ok chat=8455470574 message=32
+2026-02-26T14:50:26.003+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T13:53:34.515Z [telegram] sendMessage ok chat=8455470574 message=33
+2026-02-26T14:55:34.555+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T14:03:35.635Z [telegram] sendMessage ok chat=8455470574 message=35
+2026-02-26T14:03:36.506Z [telegram] sendMessage ok chat=8455470574 message=36
+2026-02-26T14:03:37.462Z [telegram] sendMessage ok chat=8455470574 message=37
+2026-02-26T14:03:37.573Z [ws] ⇄ res ✓ channels.status 211ms conn=caa873b3…01cd id=23fe42ed…a2e6
+2026-02-26T14:03:37.772Z [reload] config change detected; evaluating reload ($schema, meta.lastTouchedAt, env, models, agents.defaults.model, agents.defaults.workspace, agents.defaults.compaction, tools, channels.telegram.enabled, channels.telegram.groups, channels.telegram.allowFrom, gateway, skills)
+2026-02-26T14:03:44.479Z [ws] ⇄ res ✓ channels.status 315ms conn=caa873b3…01cd id=cccc1f35…0cf6
+2026-02-26T14:03:46.549Z [ws] ⇄ res ✓ channels.status 87ms conn=caa873b3…01cd id=2b716eb7…4706
+2026-02-26T14:03:59.464Z [ws] ⇄ res ✗ sessions.delete 3ms errorCode=INVALID_REQUEST errorMessage=webchat clients cannot delete sessions; use chat.send for session-scoped updates conn=caa873b3…01cd id=d39d35b6…1fec
+2026-02-26T14:04:07.844Z [gateway] signal SIGUSR1 received
+2026-02-26T14:04:07.847Z [gateway] received SIGUSR1; restarting
+2026-02-26T14:04:07.848Z [gateway] draining 2 active task(s) before restart (timeout 30000ms)
+2026-02-26T14:04:37.903Z [gmail-watcher] gmail watcher stopped
+2026-02-26T14:04:37.909Z [ws] webchat disconnected code=1006 reason=n/a conn=caa873b3-97ec-4686-8ece-04ae70e601cd
+2026-02-26T14:04:37.914Z [gateway] restart mode: full process restart (spawned pid 37576)
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+2026-02-26T14:11:44.742Z [gateway] auto-enabled plugins:
+- Telegram configured, enabled automatically.
+2026-02-26T14:11:44.747Z [gateway] auth token was missing. Generated a new token and saved it to config (gateway.auth.token).
+2026-02-26T14:11:45.807Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T14:11:45.847Z [heartbeat] started
+2026-02-26T14:11:45.849Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T14:11:45.851Z [gateway] agent model: anthropic/claude-opus-4-6
+2026-02-26T14:11:45.851Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 40369)
+2026-02-26T14:11:45.851Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T14:11:45.878Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T14:11:46.271Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T14:11:46.275Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-26T14:11:46.275Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-26T14:11:46.276Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-26T14:12:28.920Z [ws] webchat connected conn=9ff636e1-7bee-43f4-9bc6-8063e4bfe3dc remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:12:36.176Z [ws] ⇄ res ✓ config.schema 321ms conn=9ff636e1…e3dc id=ab0494c4…bda4
+2026-02-26T14:12:36.538Z [ws] ⇄ res ✓ channels.status 687ms conn=9ff636e1…e3dc id=8b44dacd…ca2f
+2026-02-26T14:13:17.008Z [telegram] sendMessage ok chat=8455470574 message=43
+2026-02-26T14:13:34.401Z [ws] ⇄ res ✓ channels.status 335ms conn=9ff636e1…e3dc id=69fef415…36dd
+2026-02-26T14:15:44.813Z [ws] webchat disconnected code=1001 reason=n/a conn=9ff636e1-7bee-43f4-9bc6-8063e4bfe3dc
+2026-02-26T14:15:44.896Z [ws] webchat connected conn=7b1d8d71-a7ea-41e0-8b74-ee0f0fcc68ba remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:15:53.528Z [ws] ⇄ res ✓ skills.status 94ms conn=7b1d8d71…68ba id=a89ab8ab…e805
+2026-02-26T14:18:50.211Z [telegram] sendMessage ok chat=8455470574 message=45
+2026-02-26T14:19:13.759Z [ws] webchat disconnected code=1001 reason=n/a conn=7b1d8d71-a7ea-41e0-8b74-ee0f0fcc68ba
+2026-02-26T14:19:13.849Z [ws] webchat connected conn=c1065ce1-1707-4161-a2d8-6836a692dac9 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:20:55.272Z [ws] ⇄ res ✓ channels.status 271ms conn=c1065ce1…dac9 id=bbd12077…ce74
+2026-02-26T14:20:55.318Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.compaction, channels.telegram.enabled, gateway)
+2026-02-26T14:20:55.324Z [gateway] signal SIGUSR1 received
+2026-02-26T14:20:55.326Z [gateway] received SIGUSR1; restarting
+2026-02-26T14:20:55.337Z [gmail-watcher] gmail watcher stopped
+2026-02-26T14:20:55.340Z [ws] webchat disconnected code=1006 reason=n/a conn=c1065ce1-1707-4161-a2d8-6836a692dac9
+2026-02-26T14:20:55.342Z [gateway] restart mode: full process restart (spawned pid 40475)
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+│
+◇  Doctor changes ──────────────────────────────╮
+│                                               │
+│  Telegram configured, enabled automatically.  │
+│                                               │
+├───────────────────────────────────────────────╯
+│
+◇  Doctor ──────────────────────────────────────────────╮
+│                                                       │
+│  Run "openclaw doctor --fix" to apply these changes.  │
+│                                                       │
+├───────────────────────────────────────────────────────╯
+2026-02-26T14:24:56.090Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T14:24:56.131Z [heartbeat] started
+2026-02-26T14:24:56.133Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T14:24:56.134Z [gateway] agent model: anthropic/claude-opus-4-6
+2026-02-26T14:24:56.134Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 41826)
+2026-02-26T14:24:56.134Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T14:24:56.160Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T14:24:56.467Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T14:24:56.470Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-26T14:24:56.471Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-26T14:24:56.471Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-26T14:24:58.395Z [ws] webchat connected conn=3eb56d36-7983-47f9-ac93-baccc2875df0 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:26:01.847Z [ws] ⇄ res ✓ config.get 329ms conn=3eb56d36…5df0 id=c30bc766…ac39
+2026-02-26T14:26:10.892Z [ws] ⇄ res ✓ skills.status 88ms conn=3eb56d36…5df0 id=4b337467…4b6b
+2026-02-26T14:28:37.911Z [ws] webchat connected conn=6d5392b4-6172-4150-ba73-363d2b0ed991 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:30:08.781Z [reload] config change detected; evaluating reload (agents.defaults.model, agents.defaults.models, agents.defaults.workspace, channels.telegram.groups, channels.telegram.allowFrom, env, models, tools, skills)
+2026-02-26T14:30:08.788Z [gateway] signal SIGUSR1 received
+2026-02-26T14:30:08.789Z [gateway] received SIGUSR1; restarting
+2026-02-26T14:30:08.803Z [gmail-watcher] gmail watcher stopped
+2026-02-26T14:30:08.808Z [ws] webchat disconnected code=1006 reason=n/a conn=6d5392b4-6172-4150-ba73-363d2b0ed991
+2026-02-26T14:30:08.809Z [ws] webchat disconnected code=1006 reason=n/a conn=3eb56d36-7983-47f9-ac93-baccc2875df0
+2026-02-26T14:30:08.811Z [gateway] restart mode: full process restart (spawned pid 42387)
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+2026-02-26T14:30:11.202Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T14:30:11.204Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-26T14:30:11.250Z [heartbeat] started
+2026-02-26T14:30:11.252Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T14:30:11.254Z [gateway] agent model: nvidia/moonshotai/kimi-k2.5
+2026-02-26T14:30:11.254Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 42388)
+2026-02-26T14:30:11.256Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T14:30:11.287Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T14:30:11.299Z [ws] webchat connected conn=b493bb9c-1719-49de-99f3-7a92c5cddb49 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:30:11.300Z [ws] webchat connected conn=11d84b9a-279a-4d50-bdae-0e7001a1af41 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:30:11.570Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T14:30:11.579Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-26T14:30:11.581Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-26T14:30:11.583Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-26T14:30:55.446Z [ws] ⇄ res ✓ config.get 339ms conn=11d84b9a…af41 id=3f189166…f3f7
+2026-02-26T14:30:57.138Z [ws] ⇄ res ✓ skills.status 82ms conn=11d84b9a…af41 id=5f6e2f24…f14a
+2026-02-26T14:35:04.997Z [reload] config change detected; evaluating reload (agents.defaults.blockStreamingDefault, channels.telegram.blockStreaming)
+2026-02-26T14:35:05.003Z [gateway/channels] restarting telegram channel
+2026-02-26T14:35:05.012Z [reload] config hot reload applied (channels.telegram.blockStreaming)
+2026-02-26T14:35:05.359Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T14:36:57.963Z [ws] webchat disconnected code=1001 reason=n/a conn=11d84b9a-279a-4d50-bdae-0e7001a1af41
+2026-02-26T14:36:58.084Z [ws] webchat connected conn=79573baa-dad0-421d-8f7d-feb66e829766 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:37:10.101Z [ws] ⇄ res ✓ skills.status 77ms conn=79573baa…9766 id=617a7924…0258
+2026-02-26T14:38:05.844Z [telegram] sendMessage ok chat=8455470574 message=47
+2026-02-26T14:43:32.761Z [ws] webchat disconnected code=1001 reason=n/a conn=79573baa-dad0-421d-8f7d-feb66e829766
+2026-02-26T14:43:32.876Z [ws] webchat connected conn=01448185-3fe4-428c-9cb4-85145f3a77f2 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:43:37.656Z [ws] ⇄ res ✓ skills.status 63ms conn=01448185…77f2 id=98826d8d…3b55
+2026-02-26T14:43:53.476Z [ws] ⇄ res ✓ skills.status 51ms conn=01448185…77f2 id=43f719ba…b7ca
+2026-02-26T14:45:15.952Z [ws] ⇄ res ✓ channels.status 306ms conn=01448185…77f2 id=dcbdefc0…9502
+2026-02-26T14:45:36.853Z [ws] ⇄ res ✗ sessions.patch 2ms errorCode=INVALID_REQUEST errorMessage=webchat clients cannot patch sessions; use chat.send for session-scoped updates conn=01448185…77f2 id=299c970d…9450
+2026-02-26T14:45:54.699Z [ws] ⇄ res ✗ sessions.patch 1ms errorCode=INVALID_REQUEST errorMessage=webchat clients cannot patch sessions; use chat.send for session-scoped updates conn=01448185…77f2 id=213c35e6…5cca
+2026-02-26T14:46:00.150Z [ws] ⇄ res ✗ sessions.patch 1ms errorCode=INVALID_REQUEST errorMessage=webchat clients cannot patch sessions; use chat.send for session-scoped updates conn=01448185…77f2 id=812f7672…2254
+2026-02-26T14:46:02.967Z [ws] ⇄ res ✗ sessions.patch 1ms errorCode=INVALID_REQUEST errorMessage=webchat clients cannot patch sessions; use chat.send for session-scoped updates conn=01448185…77f2 id=9d98f4b2…e8c4
+2026-02-26T14:48:39.570Z [reload] config change detected; evaluating reload (agents.defaults.models.nvidia/moonshotai/kimi-k2.5.params, agents.defaults.thinkingDefault)
+2026-02-26T14:48:39.573Z [reload] config change applied (dynamic reads: agents.defaults.models.nvidia/moonshotai/kimi-k2.5.params, agents.defaults.thinkingDefault)
+2026-02-26T14:50:44.349Z [ws] ⇄ res ✓ channels.status 400ms conn=b493bb9c…db49 id=2eb3a1e3…68d5
+2026-02-26T14:51:19.289Z [ws] ⇄ res ✓ channels.status 240ms conn=b493bb9c…db49 id=5bfc3e6e…7a13
+2026-02-26T15:52:55.001+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T14:53:04.057Z [telegram] sendMessage ok chat=8455470574 message=51
+2026-02-26T14:55:30.160Z [reload] config change detected; evaluating reload (tools.web.fetch)
+2026-02-26T14:55:30.162Z [reload] config change applied (dynamic reads: tools.web.fetch)
+2026-02-26T16:04:54.633+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T15:06:07.060Z [ws] ⇄ res ✓ skills.status 60ms conn=b493bb9c…db49 id=24d1cc63…b116
+2026-02-26T15:06:43.516Z [telegram] sendMessage ok chat=8455470574 message=53
+2026-02-26T16:09:14.345+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-26T15:20:13.344Z [ws] ⇄ res ✓ node.list 81ms conn=b493bb9c…db49 id=e95ef2fb…0634
+2026-02-26T15:20:19.266Z [ws] webchat connected conn=74d4bc1e-7e5c-4541-b24b-6321448ce005 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T19:17:15.269Z [ws] webchat disconnected code=1001 reason=n/a conn=b493bb9c-1719-49de-99f3-7a92c5cddb49
+2026-02-26T19:17:15.383Z [ws] webchat connected conn=89231e2e-3afa-4990-9422-50f79fffe5ee remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T19:29:25.046Z [ws] ⇄ res ✓ channels.status 274ms conn=89231e2e…e5ee id=c06e9648…41c7
+2026-02-26T19:30:51.089Z [ws] ⇄ res ✓ config.set 50ms conn=89231e2e…e5ee id=c58e9880…6ee8
+2026-02-26T19:30:51.489Z [ws] ⇄ res ✓ channels.status 217ms conn=89231e2e…e5ee id=741610ce…7cb0
+2026-02-26T19:30:51.602Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, channels.telegram.reactionLevel)
+2026-02-26T19:30:51.605Z [gateway/channels] restarting telegram channel
+2026-02-26T19:45:33.084Z [ws] webchat disconnected code=1001 reason=WebSocket is closed due to suspension. conn=89231e2e-3afa-4990-9422-50f79fffe5ee
+2026-02-26T19:45:33.187Z [ws] webchat connected conn=d4270d5d-4ee7-4778-b1f6-dd7e2dcb6d79 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T19:58:18.009Z [ws] ⇄ res ✓ channels.status 321ms conn=01448185…77f2 id=e5ce4328…9695
+2026-02-26T19:58:20.211Z [ws] ⇄ res ✓ channels.status 75ms conn=01448185…77f2 id=d2ffce85…b803
+2026-02-26T20:00:01.552Z [ws] webchat disconnected code=1001 reason=n/a conn=74d4bc1e-7e5c-4541-b24b-6321448ce005
+2026-02-26T20:10:14.574Z [ws] ⇄ res ✗ chat.send 78ms errorCode=INVALID_REQUEST errorMessage=Error: attachment image: exceeds size limit (8970042 > 5000000 bytes) conn=01448185…77f2 id=3241bc75…5706
+2026-02-26T20:10:41.351Z [ws] ⇄ res ✗ chat.send 76ms errorCode=INVALID_REQUEST errorMessage=Error: attachment image: exceeds size limit (8970042 > 5000000 bytes) conn=01448185…77f2 id=7faab578…b6f1
+2026-02-26T20:11:00.422Z [ws] ⇄ res ✓ skills.status 101ms conn=01448185…77f2 id=9c888c80…6e76
+2026-02-26T20:11:26.031Z [ws] ⇄ res ✗ chat.send 78ms errorCode=INVALID_REQUEST errorMessage=Error: attachment image: exceeds size limit (8970042 > 5000000 bytes) conn=01448185…77f2 id=12c398ae…2fb3
+2026-02-26T20:13:49.412Z [ws] ⇄ res ✗ chat.send 76ms errorCode=INVALID_REQUEST errorMessage=Error: attachment image: exceeds size limit (8970042 > 5000000 bytes) conn=01448185…77f2 id=cb0d5648…5a39
+2026-02-26T20:41:21.173Z [gateway] device pairing auto-approved device=503f5a8d702036b04be5aaa89d304a866bbf36e337aa507b8dc7e3aefe893c29 role=operator
+2026-02-26T20:41:21.197Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T20:57:11.353Z [reload] config hot reload applied (channels.telegram.reactionLevel)
+2026-02-26T20:57:11.504Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-26T20:57:11.660Z [reload] config change detected; evaluating reload (agents.defaults.mediaMaxMb, tools.web.search.provider, channels.telegram.mediaMaxMb)
+2026-02-26T20:57:11.661Z [gateway/channels] restarting telegram channel
+2026-02-26T20:57:12.039Z [telegram] sendMessage ok chat=8455470574 message=56
+2026-02-26T21:38:59.933Z [ws] ⇄ res ✓ skills.status 78ms conn=01448185…77f2 id=dd32c716…d2d2
+2026-02-26T21:39:13.445Z [ws] ⇄ res ✓ skills.status 73ms conn=01448185…77f2 id=8380534a…aa65
+2026-02-26T21:39:17.292Z [ws] ⇄ res ✓ skills.status 55ms conn=01448185…77f2 id=ea1a7ce0…3a43
+2026-02-26T22:02:05.437Z [ws] ⇄ res ✓ skills.status 84ms conn=01448185…77f2 id=140f3bf4…1b85
+2026-02-26T22:02:16.543Z [ws] ⇄ res ✓ skills.status 56ms conn=01448185…77f2 id=819a44da…22a0
+2026-02-27T08:08:20.140Z [ws] webchat disconnected code=1001 reason=n/a conn=01448185-3fe4-428c-9cb4-85145f3a77f2
+2026-02-27T08:08:20.236Z [ws] webchat connected conn=8eed0765-ce7c-477a-981d-e457c2143fa0 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T08:09:16.007Z [ws] ⇄ res ✓ skills.status 77ms conn=8eed0765…3fa0 id=934474ce…89d9
+2026-02-27T08:09:59.943Z [ws] webchat disconnected code=1001 reason=n/a conn=8eed0765-ce7c-477a-981d-e457c2143fa0
+2026-02-27T08:10:00.035Z [ws] webchat connected conn=540b753e-0aa0-42c4-9712-dd12d5288293 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T08:13:06.506Z [telegram] sendMessage ok chat=8455470574 message=60
+2026-02-27T09:15:54.212+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T08:17:37.936Z [telegram] sendMessage ok chat=8455470574 message=62
+2026-02-27T11:01:19.060+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T10:01:19.932Z [telegram] sendMessage ok chat=8455470574 message=64
+2026-02-27T11:07:50.801+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T12:01:47.035+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T11:01:47.954Z [telegram] sendMessage ok chat=8455470574 message=68
+2026-02-27T11:01:48.283Z [telegram] sendMessage ok chat=8455470574 message=69
+2026-02-27T12:56:59.139+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T11:57:00.227Z [telegram] sendMessage ok chat=8455470574 message=71
+2026-02-27T11:57:00.482Z [telegram] sendMessage ok chat=8455470574 message=72
+2026-02-27T12:52:54.044Z [ws] ⇄ res ✓ channels.status 289ms conn=d4270d5d…6d79 id=2e71ca3e…0fd0
+2026-02-27T12:56:01.991Z [telegram] sendMessage ok chat=8455470574 message=74
+2026-02-27T14:18:55.539+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T13:18:56.527Z [telegram] sendMessage ok chat=8455470574 message=76
+2026-02-27T15:10:04.312+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T14:17:53.552Z [telegram] sendMessage ok chat=8455470574 message=79
+2026-02-27T15:20:04.876+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T14:27:54.332Z [telegram] sendMessage ok chat=8455470574 message=82
+2026-02-27T15:29:59.591+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T14:30:11.230Z [gateway] update available (latest): v2026.2.26 (current v2026.2.25). Run: openclaw update
+2026-02-27T14:41:12.673Z [telegram] sendMessage ok chat=8455470574 message=85
+2026-02-27T15:57:43.033+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T14:57:44.155Z [telegram] sendMessage ok chat=8455470574 message=86
+2026-02-27T16:03:37.915+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T15:14:29.693Z [telegram] sendMessage ok chat=8455470574 message=87
+2026-02-27T15:14:30.164Z [telegram] sendMessage ok chat=8455470574 message=88
+2026-02-27T16:42:21.962+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T15:42:22.855Z [telegram] sendMessage ok chat=8455470574 message=92
+2026-02-27T15:42:24.106Z [telegram] sendMessage ok chat=8455470574 message=94
+2026-02-27T17:14:40.973Z [telegram] sendMessage ok chat=8455470574 message=96
+2026-02-27T20:03:44.202Z [gateway] update.run completed actor=openclaw-control-ui device=ebfccd65d91f28b4dbc42e5c0b72baaee5cb5f2d827bbc611198173c36d533d5 ip=unknown-ip conn=d4270d5d-4ee7-4778-b1f6-dd7e2dcb6d79 changedPaths=<n/a> restartReason=update.run status=ok
+2026-02-27T20:03:44.203Z [ws] ⇄ res ✓ update.run 31835ms conn=d4270d5d…6d79 id=c3c6ac2a…c17f
+2026-02-27T20:03:46.209Z [gateway] signal SIGUSR1 received
+2026-02-27T20:03:46.215Z [gateway] received SIGUSR1; restarting
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Telegram allowFrom contains 1 non-numeric entries (e.g. DLAYAMC7);  │
+│    Telegram authorization requires numeric sender IDs.                 │
+│  - Run "openclaw doctor --fix" to auto-resolve @username entries to    │
+│    numeric IDs (requires a Telegram bot token).                        │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+2026-02-27T20:04:28.550Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/user/agent/.openclaw-state/canvas)
+2026-02-27T20:04:28.599Z [heartbeat] started
+2026-02-27T20:04:28.600Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-27T20:04:28.601Z [gateway] agent model: nvidia/moonshotai/kimi-k2.5
+2026-02-27T20:04:28.602Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 48645)
+2026-02-27T20:04:28.603Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-27.log
+2026-02-27T20:04:28.628Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-27T20:04:28.844Z [telegram] [default] starting provider (@DoximaFullStackBot)
+2026-02-27T20:04:28.853Z [telegram] autoSelectFamily=true (default-node22)
+2026-02-27T20:04:28.853Z [telegram] global undici dispatcher autoSelectFamily=true
+2026-02-27T20:04:28.854Z [telegram] dnsResultOrder=ipv4first (default-node22)
+2026-02-27T20:04:30.003Z [ws] webchat connected conn=02ede79d-c272-4a35-b519-c3a08d5fe03c remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T20:21:54.894Z [ws] webchat connected conn=94a337d6-8e24-4b7d-81c4-955480d1e515 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T20:26:07.081Z [reload] config change detected; evaluating reload (models.providers.xai, agents.defaults.model.primary, agents.defaults.model.fallbacks)
+2026-02-27T20:26:07.093Z [reload] config change applied (dynamic reads: models.providers.xai, agents.defaults.model.primary, agents.defaults.model.fallbacks)
+2026-02-27T20:26:13.401Z [reload] config change detected; evaluating reload (agents.defaults.models.xai/grok-3, agents.defaults.models.xai/grok-3-mini)
+2026-02-27T20:26:13.408Z [reload] config change applied (dynamic reads: agents.defaults.models.xai/grok-3, agents.defaults.models.xai/grok-3-mini)
+2026-02-27T20:28:52.943Z [reload] config change detected; evaluating reload (models.providers.xai, agents.defaults.model.primary, agents.defaults.model.fallbacks, agents.defaults.models.xai/grok-3, agents.defaults.models.xai/grok-3-mini)
+2026-02-27T20:28:52.957Z [reload] config change applied (dynamic reads: models.providers.xai, agents.defaults.model.primary, agents.defaults.model.fallbacks, agents.defaults.models.xai/grok-3, agents.defaults.models.xai/grok-3-mini)
+2026-02-27T22:00:08.429+01:00 typing TTL reached (2m); stopping typing indicator
+2026-02-27T21:08:09.039Z [telegram] sendMessage ok chat=8455470574 message=99
+2026-02-27T21:46:51.518Z [gateway] signal SIGTERM received
+2026-02-27T21:46:51.520Z [gateway] received SIGTERM; shutting down
+2026-02-27T21:46:51.544Z [gmail-watcher] gmail watcher stopped
+2026-02-27T21:46:51.549Z [ws] webchat disconnected code=1006 reason=n/a conn=94a337d6-8e24-4b7d-81c4-955480d1e515
+2026-02-27T21:46:51.562Z [ws] webchat disconnected code=1006 reason=n/a conn=02ede79d-c272-4a35-b519-c3a08d5fe03c

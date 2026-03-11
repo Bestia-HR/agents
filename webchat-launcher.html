@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenClaw WebChat</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 480px; margin: 2rem auto; padding: 1rem; }
+    h1 { font-size: 1.25rem; }
+    a { color: #0066cc; }
+    .btn { display: inline-block; margin: 0.5rem 0.5rem 0 0; padding: 0.5rem 1rem; background: #0066cc; color: #fff; text-decoration: none; border-radius: 6px; }
+    .btn:hover { background: #0052a3; }
+    code { background: #f0f0f0; padding: 0.2em 0.4em; border-radius: 4px; }
+    ol { padding-left: 1.25rem; }
+  </style>
+</head>
+<body>
+  <h1>OpenClaw WebChat</h1>
+  <p>To use WebChat, the gateway must be running first.</p>
+  <ol>
+    <li>In Terminal, go to the project folder: <code>cd /Users/user/agent</code></li>
+    <li>Run: <code>./open-webchat.sh</code></li>
+    <li>That script starts the gateway and opens WebChat in your browser.</li>
+  </ol>
+  <p>Or start the gateway manually, then open the link below:</p>
+  <p><a class="btn" href="http://127.0.0.1:18789" target="_blank">Open WebChat (127.0.0.1:18789)</a></p>
+  <p><small>If the link doesn’t work, the gateway isn’t running. Run <code>./open-webchat.sh</code> from the project folder.</small></p>
+</body>
+</html>

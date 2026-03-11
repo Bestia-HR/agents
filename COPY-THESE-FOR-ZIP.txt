@@ -1,0 +1,24 @@
+Copy these into one folder, then zip that folder (e.g. name it agent-export.zip)
+================================================================================
+
+FILES (in /Users/user/agent/):
+  openclaw.json
+  .env.example
+  run-gateway.ps1
+  WINDOWS-EXPORT.md
+  FILES-TO-COPY.txt
+  EXPORT-AND-MULTI-DEVICE.md
+  FREE-SEARCH-ALTERNATIVES.md
+  README.md
+  setup-auth.sh
+  open-webchat.sh
+
+FOLDER (entire folder):
+  workspace
+
+DO NOT INCLUDE:
+  .env
+  .openclaw-state
+  .git
+
+In Finder: Select all of the above → Right-click → Compress "X Items" → rename to agent-export.zip

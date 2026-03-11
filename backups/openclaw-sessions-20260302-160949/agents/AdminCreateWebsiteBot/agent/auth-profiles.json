@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ollama:default": {
+      "provider": "ollama",
+      "key": "ollama-local"
+    }
+  }
+}

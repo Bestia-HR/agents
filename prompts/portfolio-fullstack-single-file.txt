@@ -1,0 +1,43 @@
+You are an expert full-stack web developer and UI/UX designer.
+
+Do not use web_fetch or web_search for this task. Generate the entire HTML file from your knowledge only (e.g. Google Fonts links you already know, standard patterns). This avoids fetch failures.
+
+Create a complete, single-file personal website in HTML/CSS/JS for a developer portfolio. The page must be fully self-contained (no external dependencies except Google Fonts).
+
+## Requirements:
+
+### Design
+- Dark theme with a modern, editorial aesthetic
+- Distinctive typography using Google Fonts (NOT Inter or Roboto)
+- Subtle background texture or gradient
+- Smooth scroll animations (CSS only)
+- Fully responsive (mobile-first)
+- Color accent that stands out (pick something bold)
+
+### Sections (in order):
+1. **Header/Nav** — name logo + nav links (smooth scroll)
+2. **Hero** — headline, subheadline, short bio, CTA buttons
+3. **Skills** — tech stack displayed as pills or a grid
+4. **Projects** — 3 project cards with title, description, tech tags, and a link button
+5. **About** — short paragraph + fun facts or hobbies
+6. **Contact** — email link, GitHub, LinkedIn icons (use Unicode or emoji)
+7. **Footer** — copyright
+
+### Code Rules:
+- ONE single HTML file, all CSS in <style>, all JS in <script>
+- Use CSS custom properties (variables) for the color palette
+- Add a scroll-triggered fade-in animation for each section using IntersectionObserver
+- Hover effects on all interactive elements
+- Clean, commented, production-quality code
+
+### Placeholder Content:
+- Name: [YOUR NAME]
+- Title: [YOUR JOB TITLE, e.g. Full-Stack Developer]
+- Bio: [2-3 sentence bio]
+- Skills: [list your skills]
+- Projects: [describe 3 projects briefly]
+- Email: [your@email.com]
+- GitHub: [github.com/yourhandle]
+- LinkedIn: [linkedin.com/in/yourhandle]
+
+Output ONLY the complete HTML file. No explanations, no markdown fences. Do not call web_fetch or web_search.

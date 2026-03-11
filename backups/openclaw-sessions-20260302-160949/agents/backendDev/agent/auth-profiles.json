@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "groq:default": {
+      "provider": "groq",
+      "key": "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"
+    }
+  }
+}

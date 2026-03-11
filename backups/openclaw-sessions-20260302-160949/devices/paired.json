@@ -1,0 +1,109 @@
+{
+  "ebfccd65d91f28b4dbc42e5c0b72baaee5cb5f2d827bbc611198173c36d533d5": {
+    "deviceId": "ebfccd65d91f28b4dbc42e5c0b72baaee5cb5f2d827bbc611198173c36d533d5",
+    "publicKey": "tFghe7P8243yXV0vSBGoFDuCTbcYCsLJLTv3QlbaHFQ",
+    "platform": "MacIntel",
+    "clientId": "openclaw-control-ui",
+    "clientMode": "webchat",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "approvedScopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "7578NsXUemO5o3km2AlV2x3RRhKDoQDMVm-iXIY0nhk",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "createdAtMs": 1772109823546,
+        "lastUsedAtMs": 1772463264378
+      }
+    },
+    "createdAtMs": 1772109823545,
+    "approvedAtMs": 1772109823545
+  },
+  "503f5a8d702036b04be5aaa89d304a866bbf36e337aa507b8dc7e3aefe893c29": {
+    "deviceId": "503f5a8d702036b04be5aaa89d304a866bbf36e337aa507b8dc7e3aefe893c29",
+    "publicKey": "iVAhnAKeqk08k5a6Vvljl0j9t3aqjQeKTJNKQ6Lh9b4",
+    "platform": "darwin",
+    "clientId": "cli",
+    "clientMode": "cli",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.read",
+      "operator.admin",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "approvedScopes": [
+      "operator.read",
+      "operator.admin",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "C99nENpWmLcoalk2kfwJnaAUmIGO68aJ2wWNWCEKEik",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing",
+          "operator.read",
+          "operator.write"
+        ],
+        "createdAtMs": 1772138481172,
+        "rotatedAtMs": 1772230312224
+      }
+    },
+    "createdAtMs": 1772138481172,
+    "approvedAtMs": 1772230312224
+  },
+  "d7a1b4c7d7ac754c65962de73c02bb46b7a69f19b10b6e4d16a61162d50dd0c8": {
+    "deviceId": "d7a1b4c7d7ac754c65962de73c02bb46b7a69f19b10b6e4d16a61162d50dd0c8",
+    "publicKey": "2qvf1B0EsTzisFeI1-fCHwc0VJoCUi32MPpZqbE8WTU",
+    "platform": "darwin",
+    "clientId": "gateway-client",
+    "clientMode": "backend",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.read"
+    ],
+    "approvedScopes": [
+      "operator.read"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "Gs9ILMJCxmxpaT1pICvBL63qwJzKKY-M4sh8v88lE-s",
+        "role": "operator",
+        "scopes": [
+          "operator.read"
+        ],
+        "createdAtMs": 1772453163465
+      }
+    },
+    "createdAtMs": 1772453163465,
+    "approvedAtMs": 1772453163465
+  }
+}

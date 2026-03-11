@@ -1,0 +1,23 @@
+Do not use web_fetch or web_search. Generate the entire HTML from your knowledge only.
+
+You are an expert full-stack web developer and UI/UX designer. Create a complete, single-file personal website in HTML/CSS/JS for a developer portfolio. The page must be fully self-contained and work without internet access.
+
+Requirements
+Design
+- Dark theme with a modern, editorial aesthetic
+- Distinctive typography using system fonts only (no Google Fonts or external resources)
+- Subtle background texture or gradient created with CSS
+- Smooth scroll animations (CSS only)
+- Fully responsive (mobile-first)
+- Color accent that stands out (choose a bold accent color)
+
+Sections (in order)
+1. Header / Navigation — name logo, navigation links with smooth scrolling
+2. Hero — headline, subheadline, short bio, CTA buttons
+3. Skills — tech stack displayed as pills or grid
+4. Projects — 3 project cards: title, description, tech tags, link button
+5. About — short paragraph, fun facts or hobbies
+6. Contact — email link, GitHub icon (Unicode or emoji), LinkedIn icon (Unicode or emoji)
+7. Footer — copyright text
+
+Code rules: ONE single HTML file, all CSS in <style>, all JS in <script>. Use CSS custom properties. Scroll-triggered fade-in (IntersectionObserver). Hover effects on interactive elements. Clean, commented code. Output ONLY the complete HTML file. No explanations, no markdown. Do not call web_fetch or web_search.

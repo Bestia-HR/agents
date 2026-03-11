@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.3.1",
+    "lastTouchedAt": "2026-03-02T20:59:13.888Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-03-02T13:05:28.280Z",
+    "lastRunVersion": "2026.3.1",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "models": {
+    "providers": {
+      "ollama": {
+        "baseUrl": "http://127.0.0.1:11434",
+        "apiKey": "ollama-local",
+        "api": "ollama",
+        "models": [
+          {
+            "id": "qwen2.5-coder:7b",
+            "name": "Qwen 2.5 Coder 7B (local)",
+            "reasoning": false,
+            "input": ["text"],
+            "cost": { "input": 0, "output": 0, "cacheRead": 0, "cacheWrite": 0 },
+            "contextWindow": 32768,
+            "maxTokens": 4096
+          },
+          {
+            "id": "qwen3:8b",
+            "name": "Qwen 3 8B (research & chat)",
+            "reasoning": false,
+            "input": ["text"],
+            "cost": { "input": 0, "output": 0, "cacheRead": 0, "cacheWrite": 0 },
+            "contextWindow": 32768,
+            "maxTokens": 8192
+          },
+          {
+            "id": "deepseek-r1:8b",
+            "name": "DeepSeek-R1 8B (deep reasoning)",
+            "reasoning": true,
+            "input": ["text"],
+            "cost": { "input": 0, "output": 0, "cacheRead": 0, "cacheWrite": 0 },
+            "contextWindow": 128000,
+            "maxTokens": 8192
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "ollama/qwen3:8b"
+      },
+      "models": {
+        "ollama/qwen2.5-coder:7b": {
+          "alias": "Qwen 2.5 Coder 7B (local)",
+          "params": {
+            "temperature": 0.2,
+            "maxTokens": 4096
+          }
+        },
+        "ollama/qwen3:8b": {
+          "alias": "Qwen 3 8B (research & chat)",
+          "params": {
+            "temperature": 0.3,
+            "maxTokens": 8192
+          }
+        },
+        "ollama/deepseek-r1:8b": {
+          "alias": "DeepSeek-R1 8B (deep reasoning)",
+          "params": {
+            "temperature": 0.2,
+            "maxTokens": 8192
+          }
+        }
+      },
+      "workspace": "/Users/user/agent/workspace",
+      "compaction": { "mode": "safeguard" },
+      "thinkingDefault": "off",
+      "blockStreamingDefault": "off",
+      "timeoutSeconds": 315360000,
+      "mediaMaxMb": 1024,
+      "maxConcurrent": 64,
+      "subagents": { "maxConcurrent": 64 }
+    },
+    "list": [
+      {
+        "id": "architect",
+        "default": true,
+        "name": "Project Architect",
+        "workspace": "/Users/user/agent/workspace-architect",
+        "model": { "primary": "ollama/qwen3:8b" }
+      },
+      {
+        "id": "ui-designer",
+        "default": false,
+        "name": "UI/UX Designer",
+        "workspace": "/Users/user/agent/workspace-ui-designer",
+        "model": { "primary": "ollama/qwen3:8b" }
+      },
+      {
+        "id": "frontend",
+        "default": false,
+        "name": "Frontend Developer",
+        "workspace": "/Users/user/agent/workspace-frontend",
+        "model": { "primary": "ollama/qwen2.5-coder:7b" }
+      },
+      {
+        "id": "backend",
+        "default": false,
+        "name": "Backend Developer",
+        "workspace": "/Users/user/agent/workspace-backend",
+        "model": { "primary": "ollama/qwen2.5-coder:7b" }
+      },
+      {
+        "id": "database",
+        "default": false,
+        "name": "Database Architect",
+        "workspace": "/Users/user/agent/workspace-database",
+        "model": { "primary": "ollama/qwen2.5-coder:7b" }
+      },
+      {
+        "id": "seo",
+        "default": false,
+        "name": "SEO Specialist",
+        "workspace": "/Users/user/agent/workspace-seo",
+        "model": { "primary": "ollama/qwen3:8b" }
+      },
+      {
+        "id": "reviewer",
+        "default": false,
+        "name": "Code Reviewer",
+        "workspace": "/Users/user/agent/workspace-reviewer",
+        "model": { "primary": "ollama/qwen2.5-coder:7b" }
+      },
+      {
+        "id": "debugger",
+        "default": false,
+        "name": "Debugger",
+        "workspace": "/Users/user/agent/workspace-debugger",
+        "model": { "primary": "ollama/qwen2.5-coder:7b" }
+      },
+      {
+        "id": "writer",
+        "default": false,
+        "name": "Technical Writer",
+        "workspace": "/Users/user/agent/workspace-writer",
+        "model": { "primary": "ollama/qwen3:8b" }
+      }
+    ]
+  },
+  "messages": {
+    "tts": {
+      "auto": "off"
+    }
+  },
+  "tools": {
+    "profile": "full",
+    "deny": ["tts"],
+    "exec": {
+      "host": "gateway",
+      "ask": "off"
+    },
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "gemini"
+      },
+      "fetch": {
+        "enabled": true,
+        "timeoutSeconds": 3600,
+        "maxRedirects": 20,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      }
+    },
+    "agentToAgent": {
+      "enabled": true,
+      "allow": [
+        "architect",
+        "ui-designer",
+        "frontend",
+        "backend",
+        "database",
+        "seo",
+        "reviewer",
+        "debugger",
+        "writer"
+      ]
+    }
+  },
+  "bindings": [
+    {
+      "agentId": "architect",
+      "match": {
+        "channel": "telegram",
+        "accountId": "main"
+      }
+    },
+    {
+      "agentId": "architect",
+      "match": {
+        "channel": "telegram",
+        "accountId": "admin"
+      }
+    }
+  ],
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "commands": {
+        "native": false
+      },
+      "actions": {
+        "sendMessage": true
+      },
+      "dmPolicy": "pairing",
+      "groups": {
+        "*": {
+          "requireMention": false
+        },
+        "-5049131940": {
+          "requireMention": false
+        }
+      },
+      "allowFrom": [
+        8455470574
+      ],
+      "groupPolicy": "open",
+      "streaming": "partial",
+      "blockStreaming": false,
+      "mediaMaxMb": 200,
+      "reactionLevel": "extensive",
+      "accounts": {
+        "main": {
+          "dmPolicy": "pairing",
+          "botToken": "8607958856:AAF4DS_qf8sVcNv35LvAo9VeZM97AuQ-8Nc",
+          "allowFrom": [
+            8455470574
+          ],
+          "groupAllowFrom": [
+            8455470574
+          ],
+          "groupPolicy": "open",
+          "streaming": "partial"
+        },
+        "admin": {
+          "dmPolicy": "pairing",
+          "botToken": "8699190432:AAENCfrqaXFjsyGE-j55amZmtNtTmvPHyNg",
+          "allowFrom": [
+            8455470574
+          ],
+          "groupAllowFrom": [
+            8455470574
+          ],
+          "groupPolicy": "open",
+          "streaming": "partial"
+        },
+        "default": {
+          "dmPolicy": "pairing",
+          "allowFrom": [
+            8455470574
+          ],
+          "groupAllowFrom": [
+            8455470574
+          ],
+          "groupPolicy": "open",
+          "streaming": "partial"
+        }
+      }
+    }
+  },
+  "browser": {
+    "ssrfPolicy": {
+      "allowedHostnames": ["localhost", "127.0.0.1"]
+    }
+  },
+  "gateway": {
+    "mode": "local"
+  },
+  "skills": {
+    "load": {
+      "extraDirs": [
+        "/Users/user/agent/skills"
+      ],
+      "watch": true,
+      "watchDebounceMs": 500
+    },
+    "entries": {
+      "web_search": {
+        "enabled": true
+      },
+      "web_fetch": {
+        "enabled": true
+      },
+      "cursor-cloud-agent": {
+        "enabled": true
+      },
+      "create-repo-and-launch": {
+        "enabled": true
+      },
+      "cursor-plan": {
+        "enabled": true
+      }
+    }
+  }
+}

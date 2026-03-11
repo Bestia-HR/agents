@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.3.1",
+    "lastTouchedAt": "2026-03-02T11:23:49.596Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-26T14:22:33.773Z",
+    "lastRunVersion": "2026.2.25",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "models": {},
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "ollama/llama3.2",
+        "fallbacks": ["groq/llama-3.1-8b-instant"]
+      },
+      "models": {
+        "ollama/llama3.2": {
+          "alias": "Llama 3.2 (local)",
+          "params": {
+            "temperature": 0.25,
+            "maxTokens": 4096
+          }
+        },
+        "groq/llama-3.1-8b-instant": {
+          "alias": "Llama 3.1 8B",
+          "params": {
+            "temperature": 0.25,
+            "maxTokens": 2048
+          }
+        }
+      },
+      "workspace": "/Users/user/agent/workspace",
+      "compaction": {
+        "mode": "safeguard"
+      },
+      "thinkingDefault": "medium",
+      "blockStreamingDefault": "off",
+      "mediaMaxMb": 10,
+      "maxConcurrent": 2,
+      "subagents": {
+        "maxConcurrent": 4
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "default": false,
+        "name": "Agent A",
+        "workspace": "/Users/user/agent/workspace",
+        "model": {
+          "primary": "ollama/llama3.2",
+          "fallbacks": ["groq/llama-3.1-8b-instant"]
+        }
+      },
+      {
+        "id": "AdminCreateWebsiteBot",
+        "default": true,
+        "name": "Agent B",
+        "workspace": "/Users/user/agent/workspace-AdminCreateWebsiteBot",
+        "model": {
+          "primary": "ollama/llama3.2",
+          "fallbacks": ["groq/llama-3.1-8b-instant"]
+        }
+      }
+    ]
+  },
+  "tools": {
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "gemini"
+      },
+      "fetch": {
+        "enabled": true
+      }
+    },
+    "agentToAgent": {
+      "enabled": true,
+      "allow": [
+        "main",
+        "AdminCreateWebsiteBot"
+      ]
+    }
+  },
+  "bindings": [
+    {
+      "agentId": "main",
+      "match": {
+        "channel": "telegram",
+        "accountId": "main"
+      }
+    },
+    {
+      "agentId": "AdminCreateWebsiteBot",
+      "match": {
+        "channel": "telegram",
+        "accountId": "admin"
+      }
+    }
+  ],
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "groups": {
+        "*": {
+          "requireMention": false
+        },
+        "-5049131940": {
+          "requireMention": false
+        }
+      },
+      "allowFrom": [
+        8455470574
+      ],
+      "groupAllowFrom": [
+        8455470574
+      ],
+      "groupPolicy": "open",
+      "streaming": "partial",
+      "blockStreaming": false,
+      "mediaMaxMb": 10,
+      "reactionLevel": "extensive",
+      "accounts": {
+        "main": {
+          "dmPolicy": "pairing",
+          "botToken": "8607958856:AAF4DS_qf8sVcNv35LvAo9VeZM97AuQ-8Nc",
+          "groupPolicy": "open",
+          "streaming": "off"
+        },
+        "admin": {
+          "dmPolicy": "pairing",
+          "botToken": "8699190432:AAENCfrqaXFjsyGE-j55amZmtNtTmvPHyNg",
+          "groupPolicy": "open",
+          "streaming": "off"
+        }
+      }
+    }
+  },
+  "gateway": {
+    "mode": "local"
+  },
+  "skills": {
+    "load": {
+      "extraDirs": [
+        "./skills"
+      ],
+      "watch": true
+    },
+    "entries": {
+      "web_search": {
+        "enabled": true
+      },
+      "web_fetch": {
+        "enabled": true
+      }
+    }
+  }
+}

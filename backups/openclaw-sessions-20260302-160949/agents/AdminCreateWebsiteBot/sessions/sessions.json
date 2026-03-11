@@ -1,0 +1,683 @@
+{
+  "agent:admincreatewebsitebot:main": {
+    "sessionId": "a999ca55-5ece-4e16-9637-b29198969609",
+    "updatedAt": 1772463228192,
+    "systemSent": true,
+    "abortedLastRun": false,
+    "chatType": "direct",
+    "deliveryContext": {
+      "channel": "webchat"
+    },
+    "lastChannel": "webchat",
+    "origin": {
+      "provider": "webchat",
+      "surface": "webchat",
+      "chatType": "direct"
+    },
+    "sessionFile": "/Users/user/agent/.openclaw-state/agents/admincreatewebsitebot/sessions/a999ca55-5ece-4e16-9637-b29198969609.jsonl",
+    "compactionCount": 0,
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or detailed meteorological analysis. No API key needed.</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY",
+          "requiredEnv": [
+            "GEMINI_API_KEY"
+          ]
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "weather",
+          "requiredEnv": []
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or detailed meteorological analysis. No API key needed.",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "modelProvider": "ollama",
+    "model": "llama3.2",
+    "contextTokens": 131072,
+    "systemPromptReport": {
+      "source": "run",
+      "generatedAt": 1772458131703,
+      "sessionId": "a999ca55-5ece-4e16-9637-b29198969609",
+      "sessionKey": "agent:admincreatewebsitebot:main",
+      "provider": "ollama",
+      "model": "llama3.2",
+      "workspaceDir": "/Users/user/agent/workspace-AdminCreateWebsiteBot",
+      "bootstrapMaxChars": 20000,
+      "bootstrapTotalMaxChars": 150000,
+      "sandbox": {
+        "mode": "off",
+        "sandboxed": false
+      },
+      "systemPrompt": {
+        "chars": 18472,
+        "projectContextChars": 6760,
+        "nonProjectContextChars": 11712
+      },
+      "injectedWorkspaceFiles": [
+        {
+          "name": "AGENTS.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/AGENTS.md",
+          "missing": false,
+          "rawChars": 1998,
+          "injectedChars": 1998,
+          "truncated": false
+        },
+        {
+          "name": "SOUL.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/SOUL.md",
+          "missing": false,
+          "rawChars": 515,
+          "injectedChars": 515,
+          "truncated": false
+        },
+        {
+          "name": "TOOLS.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/TOOLS.md",
+          "missing": false,
+          "rawChars": 850,
+          "injectedChars": 850,
+          "truncated": false
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/IDENTITY.md",
+          "missing": false,
+          "rawChars": 633,
+          "injectedChars": 633,
+          "truncated": false
+        },
+        {
+          "name": "USER.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/USER.md",
+          "missing": false,
+          "rawChars": 474,
+          "injectedChars": 474,
+          "truncated": false
+        },
+        {
+          "name": "HEARTBEAT.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/HEARTBEAT.md",
+          "missing": false,
+          "rawChars": 167,
+          "injectedChars": 167,
+          "truncated": false
+        },
+        {
+          "name": "BOOTSTRAP.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/BOOTSTRAP.md",
+          "missing": false,
+          "rawChars": 1449,
+          "injectedChars": 1449,
+          "truncated": false
+        }
+      ],
+      "skills": {
+        "promptChars": 1802,
+        "entries": [
+          {
+            "name": "healthcheck",
+            "blockChars": 485
+          },
+          {
+            "name": "nano-banana-pro",
+            "blockChars": 239
+          },
+          {
+            "name": "skill-creator",
+            "blockChars": 290
+          },
+          {
+            "name": "weather",
+            "blockChars": 410
+          }
+        ]
+      },
+      "tools": {
+        "listChars": 1937,
+        "schemaChars": 15227,
+        "entries": [
+          {
+            "name": "read",
+            "summaryChars": 298,
+            "schemaChars": 392,
+            "propertiesCount": 4
+          },
+          {
+            "name": "edit",
+            "summaryChars": 129,
+            "schemaChars": 591,
+            "propertiesCount": 6
+          },
+          {
+            "name": "write",
+            "summaryChars": 127,
+            "schemaChars": 313,
+            "propertiesCount": 3
+          },
+          {
+            "name": "exec",
+            "summaryChars": 181,
+            "schemaChars": 1086,
+            "propertiesCount": 12
+          },
+          {
+            "name": "process",
+            "summaryChars": 85,
+            "schemaChars": 961,
+            "propertiesCount": 12
+          },
+          {
+            "name": "browser",
+            "summaryChars": 1251,
+            "schemaChars": 1921,
+            "propertiesCount": 29
+          },
+          {
+            "name": "canvas",
+            "summaryChars": 106,
+            "schemaChars": 661,
+            "propertiesCount": 18
+          },
+          {
+            "name": "nodes",
+            "summaryChars": 115,
+            "schemaChars": 1758,
+            "propertiesCount": 36
+          },
+          {
+            "name": "message",
+            "summaryChars": 124,
+            "schemaChars": 4277,
+            "propertiesCount": 86
+          },
+          {
+            "name": "tts",
+            "summaryChars": 152,
+            "schemaChars": 223,
+            "propertiesCount": 2
+          },
+          {
+            "name": "agents_list",
+            "summaryChars": 118,
+            "schemaChars": 33,
+            "propertiesCount": 0
+          },
+          {
+            "name": "sessions_list",
+            "summaryChars": 54,
+            "schemaChars": 212,
+            "propertiesCount": 4
+          },
+          {
+            "name": "sessions_history",
+            "summaryChars": 36,
+            "schemaChars": 161,
+            "propertiesCount": 3
+          },
+          {
+            "name": "sessions_send",
+            "summaryChars": 84,
+            "schemaChars": 273,
+            "propertiesCount": 5
+          },
+          {
+            "name": "sessions_spawn",
+            "summaryChars": 134,
+            "schemaChars": 549,
+            "propertiesCount": 13
+          },
+          {
+            "name": "subagents",
+            "summaryChars": 105,
+            "schemaChars": 191,
+            "propertiesCount": 4
+          },
+          {
+            "name": "session_status",
+            "summaryChars": 207,
+            "schemaChars": 89,
+            "propertiesCount": 2
+          },
+          {
+            "name": "web_search",
+            "summaryChars": 123,
+            "schemaChars": 895,
+            "propertiesCount": 6
+          },
+          {
+            "name": "web_fetch",
+            "summaryChars": 129,
+            "schemaChars": 374,
+            "propertiesCount": 3
+          },
+          {
+            "name": "memory_search",
+            "summaryChars": 334,
+            "schemaChars": 139,
+            "propertiesCount": 3
+          },
+          {
+            "name": "memory_get",
+            "summaryChars": 151,
+            "schemaChars": 128,
+            "propertiesCount": 3
+          }
+        ]
+      }
+    },
+    "inputTokens": 11030,
+    "outputTokens": 33,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "totalTokens": 11030,
+    "totalTokensFresh": true,
+    "channel": "telegram",
+    "thinkingLevel": "off"
+  },
+  "telegram:slash:8455470574": {
+    "chatType": "group",
+    "channel": "telegram",
+    "groupId": "-5049131940",
+    "subject": "MacBotd",
+    "displayName": "telegram:g-macbotd",
+    "origin": {
+      "label": "MacBotd id:-5049131940",
+      "provider": "telegram",
+      "surface": "telegram",
+      "chatType": "group",
+      "from": "telegram:group:-5049131940",
+      "to": "telegram:-5049131940",
+      "accountId": "admin"
+    },
+    "sessionId": "bac3835f-4863-403c-9d3c-a28bd65e27d5",
+    "updatedAt": 1772459923633,
+    "deliveryContext": {
+      "channel": "telegram"
+    },
+    "lastChannel": "telegram"
+  },
+  "agent:admincreatewebsitebot:telegram:group:-5049131940": {
+    "sessionId": "b0cb74fd-efde-4123-b253-e0f9e0c5b3db",
+    "updatedAt": 1772459943529,
+    "systemSent": true,
+    "abortedLastRun": false,
+    "displayName": "telegram:g-macbotd",
+    "chatType": "group",
+    "channel": "telegram",
+    "groupId": "-5049131940",
+    "subject": "MacBotd",
+    "deliveryContext": {
+      "channel": "telegram",
+      "to": "telegram:-5049131940",
+      "accountId": "admin"
+    },
+    "lastChannel": "telegram",
+    "lastTo": "telegram:-5049131940",
+    "lastAccountId": "admin",
+    "origin": {
+      "label": "MacBotd id:-5049131940",
+      "provider": "telegram",
+      "surface": "telegram",
+      "chatType": "group",
+      "from": "telegram:group:-5049131940",
+      "to": "telegram:-5049131940",
+      "accountId": "admin"
+    },
+    "sessionFile": "/Users/user/agent/.openclaw-state/agents/admincreatewebsitebot/sessions/b0cb74fd-efde-4123-b253-e0f9e0c5b3db.jsonl",
+    "compactionCount": 0,
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>nano-banana-pro</name>\n    <description>Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or detailed meteorological analysis. No API key needed.</description>\n    <location>~/.node/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "healthcheck"
+        },
+        {
+          "name": "nano-banana-pro",
+          "primaryEnv": "GEMINI_API_KEY",
+          "requiredEnv": [
+            "GEMINI_API_KEY"
+          ]
+        },
+        {
+          "name": "skill-creator"
+        },
+        {
+          "name": "weather",
+          "requiredEnv": []
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "healthcheck",
+          "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/healthcheck/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/healthcheck",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "nano-banana-pro",
+          "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/nano-banana-pro/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/nano-banana-pro",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "skill-creator",
+          "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/skill-creator/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/skill-creator",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "weather",
+          "description": "Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or detailed meteorological analysis. No API key needed.",
+          "filePath": "/Users/user/.node/lib/node_modules/openclaw/skills/weather/SKILL.md",
+          "baseDir": "/Users/user/.node/lib/node_modules/openclaw/skills/weather",
+          "source": "openclaw-bundled",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 0
+    },
+    "groupActivation": "always",
+    "groupActivationNeedsSystemIntro": false,
+    "responseUsage": "full",
+    "modelProvider": "ollama",
+    "model": "llama3.2",
+    "contextTokens": 131072,
+    "systemPromptReport": {
+      "source": "run",
+      "generatedAt": 1772459511848,
+      "sessionId": "b0cb74fd-efde-4123-b253-e0f9e0c5b3db",
+      "sessionKey": "agent:admincreatewebsitebot:telegram:group:-5049131940",
+      "provider": "ollama",
+      "model": "llama3.2",
+      "workspaceDir": "/Users/user/agent/workspace-AdminCreateWebsiteBot",
+      "bootstrapMaxChars": 20000,
+      "bootstrapTotalMaxChars": 150000,
+      "sandbox": {
+        "mode": "off",
+        "sandboxed": false
+      },
+      "systemPrompt": {
+        "chars": 20925,
+        "projectContextChars": 6760,
+        "nonProjectContextChars": 14165
+      },
+      "injectedWorkspaceFiles": [
+        {
+          "name": "AGENTS.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/AGENTS.md",
+          "missing": false,
+          "rawChars": 1998,
+          "injectedChars": 1998,
+          "truncated": false
+        },
+        {
+          "name": "SOUL.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/SOUL.md",
+          "missing": false,
+          "rawChars": 515,
+          "injectedChars": 515,
+          "truncated": false
+        },
+        {
+          "name": "TOOLS.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/TOOLS.md",
+          "missing": false,
+          "rawChars": 850,
+          "injectedChars": 850,
+          "truncated": false
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/IDENTITY.md",
+          "missing": false,
+          "rawChars": 633,
+          "injectedChars": 633,
+          "truncated": false
+        },
+        {
+          "name": "USER.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/USER.md",
+          "missing": false,
+          "rawChars": 474,
+          "injectedChars": 474,
+          "truncated": false
+        },
+        {
+          "name": "HEARTBEAT.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/HEARTBEAT.md",
+          "missing": false,
+          "rawChars": 167,
+          "injectedChars": 167,
+          "truncated": false
+        },
+        {
+          "name": "BOOTSTRAP.md",
+          "path": "/Users/user/agent/workspace-AdminCreateWebsiteBot/BOOTSTRAP.md",
+          "missing": false,
+          "rawChars": 1449,
+          "injectedChars": 1449,
+          "truncated": false
+        }
+      ],
+      "skills": {
+        "promptChars": 1802,
+        "entries": [
+          {
+            "name": "healthcheck",
+            "blockChars": 485
+          },
+          {
+            "name": "nano-banana-pro",
+            "blockChars": 239
+          },
+          {
+            "name": "skill-creator",
+            "blockChars": 290
+          },
+          {
+            "name": "weather",
+            "blockChars": 410
+          }
+        ]
+      },
+      "tools": {
+        "listChars": 2337,
+        "schemaChars": 16382,
+        "entries": [
+          {
+            "name": "read",
+            "summaryChars": 298,
+            "schemaChars": 392,
+            "propertiesCount": 4
+          },
+          {
+            "name": "edit",
+            "summaryChars": 129,
+            "schemaChars": 591,
+            "propertiesCount": 6
+          },
+          {
+            "name": "write",
+            "summaryChars": 127,
+            "schemaChars": 313,
+            "propertiesCount": 3
+          },
+          {
+            "name": "exec",
+            "summaryChars": 181,
+            "schemaChars": 1086,
+            "propertiesCount": 12
+          },
+          {
+            "name": "process",
+            "summaryChars": 85,
+            "schemaChars": 961,
+            "propertiesCount": 12
+          },
+          {
+            "name": "browser",
+            "summaryChars": 1251,
+            "schemaChars": 1921,
+            "propertiesCount": 29
+          },
+          {
+            "name": "canvas",
+            "summaryChars": 106,
+            "schemaChars": 661,
+            "propertiesCount": 18
+          },
+          {
+            "name": "nodes",
+            "summaryChars": 115,
+            "schemaChars": 1758,
+            "propertiesCount": 36
+          },
+          {
+            "name": "cron",
+            "summaryChars": 2689,
+            "schemaChars": 690,
+            "propertiesCount": 13
+          },
+          {
+            "name": "message",
+            "summaryChars": 132,
+            "schemaChars": 4277,
+            "propertiesCount": 86
+          },
+          {
+            "name": "tts",
+            "summaryChars": 152,
+            "schemaChars": 223,
+            "propertiesCount": 2
+          },
+          {
+            "name": "gateway",
+            "summaryChars": 354,
+            "schemaChars": 465,
+            "propertiesCount": 11
+          },
+          {
+            "name": "agents_list",
+            "summaryChars": 118,
+            "schemaChars": 33,
+            "propertiesCount": 0
+          },
+          {
+            "name": "sessions_list",
+            "summaryChars": 54,
+            "schemaChars": 212,
+            "propertiesCount": 4
+          },
+          {
+            "name": "sessions_history",
+            "summaryChars": 36,
+            "schemaChars": 161,
+            "propertiesCount": 3
+          },
+          {
+            "name": "sessions_send",
+            "summaryChars": 84,
+            "schemaChars": 273,
+            "propertiesCount": 5
+          },
+          {
+            "name": "sessions_spawn",
+            "summaryChars": 134,
+            "schemaChars": 549,
+            "propertiesCount": 13
+          },
+          {
+            "name": "subagents",
+            "summaryChars": 105,
+            "schemaChars": 191,
+            "propertiesCount": 4
+          },
+          {
+            "name": "session_status",
+            "summaryChars": 207,
+            "schemaChars": 89,
+            "propertiesCount": 2
+          },
+          {
+            "name": "web_search",
+            "summaryChars": 123,
+            "schemaChars": 895,
+            "propertiesCount": 6
+          },
+          {
+            "name": "web_fetch",
+            "summaryChars": 129,
+            "schemaChars": 374,
+            "propertiesCount": 3
+          },
+          {
+            "name": "memory_search",
+            "summaryChars": 334,
+            "schemaChars": 139,
+            "propertiesCount": 3
+          },
+          {
+            "name": "memory_get",
+            "summaryChars": 151,
+            "schemaChars": 128,
+            "propertiesCount": 3
+          }
+        ]
+      }
+    },
+    "inputTokens": 10634,
+    "outputTokens": 19,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "totalTokens": 10634,
+    "totalTokensFresh": true
+  }
+}

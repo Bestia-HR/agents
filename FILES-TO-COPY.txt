@@ -1,0 +1,21 @@
+Contents of agent-export.zip — what to copy to Windows
+=====================================================
+
+This zip contains only the files you need. Do NOT include .env or .openclaw-state.
+
+Included:
+  openclaw.json       — Agent config (edit workspace path on Windows)
+  .env.example       — Template for .env (copy to .env and fill in keys)
+  run-gateway.ps1    — Start gateway on Windows (PowerShell)
+  WINDOWS-EXPORT.md  — Full Windows + collaboration guide
+  workspace/        — All agent knowledge (AGENTS.md, SOUL.md, *_KNOWLEDGE.md)
+  README.md          — Project readme
+  setup-auth.sh      — Auth setup (Mac/Linux; optional on Windows)
+  open-webchat.sh    — Open WebChat (Mac/Linux; optional on Windows)
+  EXPORT-AND-MULTI-DEVICE.md
+  FREE-SEARCH-ALTERNATIVES.md
+
+On Windows:
+  1. Unzip this file to a folder (e.g. C:\Users\You\agent).
+  2. Follow WINDOWS-EXPORT.md.
+  3. Create .env from .env.example and add your keys (use a NEW Telegram bot for collaboration).
